@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/quizappbg"
+    android:gravity="center"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
@@ -19,8 +20,9 @@
     <com.google.android.material.card.MaterialCardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="25dp"
         android:layout_marginStart="20dp"
+        app:cardCornerRadius="10dp"
         android:layout_marginEnd="20dp"
         android:background="@color/white">
         <LinearLayout
@@ -53,22 +55,24 @@
                 android:hint="@string/name"
                 android:textColorHint="#7A8089"
                 >
+
                 <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/uname"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:inputType="textCapWords"
-                    android:textColor="#363A43"
-                    />
+                    android:textColor="#363A43" />
             </com.google.android.material.textfield.TextInputLayout>
-             <Button
-                 android:layout_width="match_parent"
-                 android:layout_height="wrap_content"
-                 android:layout_marginTop="15dp"
-                 android:background="@color/design_default_color_primary"
-                 android:text="@string/start"
-                 android:textColor="@color/white"
-                 android:textSize="20sp"
-                 />
+
+            <Button
+                android:id="@+id/start"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="@color/design_default_color_primary"
+                android:text="@string/start"
+                android:textColor="@color/white"
+                android:textSize="20sp" />
         </LinearLayout>
 
 
