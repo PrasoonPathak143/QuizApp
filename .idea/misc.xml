@@ -3,9 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/PRASOON PATHAK/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/correct_option_border_bg.xml" value="0.1" />
+        <entry key="..\:/Users/PRASOON PATHAK/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/default_option_border_bg.xml" value="0.1" />
         <entry key="..\:/Users/PRASOON PATHAK/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/PRASOON PATHAK/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/selected_option_border_bg.xml" value="0.10666666666666667" />
+        <entry key="..\:/Users/PRASOON PATHAK/AndroidStudioProjects/MyQuizApp/app/src/main/res/drawable/wrong_option_bg.xml" value="0.1" />
         <entry key="..\:/Users/PRASOON PATHAK/AndroidStudioProjects/MyQuizApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/PRASOON PATHAK/AndroidStudioProjects/MyQuizApp/app/src/main/res/layout/activity_question.xml" value="0.2156398104265403" />
+        <entry key="..\:/Users/PRASOON PATHAK/AndroidStudioProjects/MyQuizApp/app/src/main/res/layout/activity_question.xml" value="0.1" />
+        <entry key="..\:/Users/PRASOON PATHAK/AndroidStudioProjects/MyQuizApp/app/src/main/res/layout/activity_result.xml" value="0.1" />
       </map>
     </option>
   </component>

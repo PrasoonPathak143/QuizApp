@@ -5,4 +5,8 @@
     <string name="please_enter_your_name">Please Enter Your Name</string>
     <string name="name">Name</string>
     <string name="start">Start</string>
+    <string name="submit">SUBMIT</string>
+    <string name="result">RESULT</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="finish">FINISH</string>
 </resources>
